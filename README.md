@@ -57,8 +57,7 @@ db_name = "crontabDB"
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/YoZhenYeh/ETL_crontab
 ```
 ### Create network
 Corresponds to the network in docker-compose.yml
